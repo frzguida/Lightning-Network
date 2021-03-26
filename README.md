@@ -6,4 +6,4 @@ Bitcoin over Lightning-Network
 
 <br>
 Join this node:<br>
-03359cad9e58ead8d665af91ebcbc868f9267d4302664cf155cdbb4355ce9b7f2c@52.212.140.108:9735
+03359cad9e58ead8d665af91ebcbc868f9267d4302664cf155cdbb4355ce9b7f2c
